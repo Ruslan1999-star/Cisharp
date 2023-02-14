@@ -39,6 +39,17 @@
 // 4 -> да
 // -3 -> нет
 // 7 -> нет
+// Console.WriteLine("Input number");
+// int num = Convert.ToInt32(Console.ReadLine());
+// int rest = num % 2;
+// if(rest ==0){
+//    Console.WriteLine($"Numbers {num} devided 2 without any rest");
+
+// }
+// else{
+//    Console.WriteLine($"Numbers {num} devided 2 with any rest: {rest}");
+// }
+
 
 // Напишите программу, которая на вход принимает число (N), а на выходе показывает все чётные числа от 1 до N.
 // 5 -> 2, 4
